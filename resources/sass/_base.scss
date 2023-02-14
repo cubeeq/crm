@@ -1,0 +1,13 @@
+.task-list .controls {
+    min-width: 9rem;
+
+}
+
+.task-list .point {
+    width: .5rem;
+    height: .5rem;
+}
+
+.task-list .category-red    .point { background: $red; }
+.task-list .category-yellow .point { background: $yellow; }
+.task-list .category-cyan   .point { background: $cyan; }
